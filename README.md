@@ -23,3 +23,4 @@ get-vmhost
 |item|category|price|
 |---|---|---|
 |1 |animal | 10k |
+|2|human|20k|
